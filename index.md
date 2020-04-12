@@ -39,7 +39,8 @@ beschrijving van een situatie waarin het delen van persoonlijke data
 vanuit Europese normen en waarden aanvaardbaar is. Apps kunnen dan aan
 de hand van deze lijst volgens het principe ‘privacy by design’
 ontworpen en gebouwd worden. Hieronder volgt onze aftrap voor zo’n lijst
-met noodzakelijke voorwaarden:
+met noodzakelijke voorwaarden (als je op het driehoekje klikt dan volgt
+een nadere toelichting):
 
 <details>
 
@@ -232,7 +233,7 @@ aan datadeling.
 
 <details>
 
-<summary> <b>Data aan de bron anoniem houden/</b>: Data moet
+<summary> <b>Data aan de bron anoniem houden</b>: Data moet
 geanonimiseerd worden, maar dat is zoals eerder gezegd op zich nog geen
 voldoende voorwaarde. </summary> <br>
 
