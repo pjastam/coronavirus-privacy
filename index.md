@@ -43,48 +43,71 @@ met noodzakelijke voorwaarden:
 
 <details>
 
-<summary> **Hoger doel**: De apps moeten een hoger algemeen sociaal doel
-dienen. Dat doel moet helder verwoord en afgebakend zijn. </summary> Het
-is evident dat er in dit geval sprake is van zo’n hoger doel, namelijk
-het tegengaan van de verspreiding van het coronavirus in ons land. Maar
-het is niet zonder meer zo dat het in algemene zin uitvoeren van
-wetenschappelijk onderzoek op deze data, het secundaire doel, dat ook
-is. De nog te formuleren specifieke wetenschappelijke onderzoeksvragen
-zijn bij de keuze om de apps te gebruiken immers niet bekend bij de
-gebruiker, dus die weet niet waarvoor hij nu toestemming geeft. Het is
-in ieder geval niet het primaire doel van het kabinet om deze data voor
-wetenschappelijk onderzoek te verzamelen.
+<summary> <b>Hoger doel</b>: De apps moeten een hoger algemeen sociaal
+doel dienen. Dat doel moet helder verwoord en afgebakend zijn.
+</summary>
+
+<p>
+
+Het is evident dat er in dit geval sprake is van zo’n hoger doel,
+namelijk het tegengaan van de verspreiding van het coronavirus in ons
+land. Maar het is niet zonder meer zo dat het in algemene zin uitvoeren
+van wetenschappelijk onderzoek op deze data, het secundaire doel, dat
+ook is. De nog te formuleren specifieke wetenschappelijke
+onderzoeksvragen zijn bij de keuze om de apps te gebruiken immers niet
+bekend bij de gebruiker, dus die weet niet waarvoor hij nu toestemming
+geeft. Het is in ieder geval niet het primaire doel van het kabinet om
+deze data voor wetenschappelijk onderzoek te verzamelen.
+
+</p>
 
 </details>
 
+<br>
+
 <details>
 
-<summary> **Afgebakende periode**: Als het hogere doel het beteugelen
+<summary> <b>Afgebakende periode</b>: Als het hogere doel het beteugelen
 van een crisis is, dan moet er een afgebakende periode van datadeling
 zijn. Deze periode kan eventueel verlengd worden omdat de crisis nog
 niet bezworen is. Deze besluitvoming moet voldoen aan democratische
-uitgangspunten. </summary> Het risico van in crisistijd ingevoerde
-maatregelen is dat de tijdelijkheid ervan in de geschiedenis een rekbaar
-begrip is gebleken, daarom zijn harde afspraken hierover noodzakelijk.
-Een afgebakende periode kan zijn om de data te delen zolang de crisis
-nog niet bezworen is. Om te kunnen vaststellen of de crisis is bezworen
-zullen een aantal objectieve beoordelingscriteria moeten worden
-geformuleerd. Een voorbeeld daarvan is de verspreidingscoefficient, i.e.
-het aantal mensen dat wordt besmet als ze met één besmet persoon in
-contact komen. Het streven van het RIVM is om die verspreiding
-coëfficiënt (langdurig) onder de 1 te houden, het is goed om daarbij
-een vaste ondergrens gedurende een vaste periode af te spreken.
+uitgangspunten. </summary>
+
+<p>
+
+Het risico van in crisistijd ingevoerde maatregelen is dat de
+tijdelijkheid ervan in de geschiedenis een rekbaar begrip is gebleken,
+daarom zijn harde afspraken hierover noodzakelijk. Een afgebakende
+periode kan zijn om de data te delen zolang de crisis nog niet bezworen
+is. Om te kunnen vaststellen of de crisis is bezworen zullen een aantal
+objectieve beoordelingscriteria moeten worden geformuleerd. Een
+voorbeeld daarvan is de verspreidingscoefficient, i.e. het aantal mensen
+dat wordt besmet als ze met één besmet persoon in contact komen. Het
+streven van het RIVM is om die verspreiding coëfficiënt (langdurig)
+onder de 1 te houden, het is goed om daarbij een vaste ondergrens
+gedurende een vaste periode af te spreken.
+
+</p>
 
 </details>
 
+<br>
+
 <details>
 
-<summary> **Data verwijderen**: Als het hogere doel gerealiseerd is, dan
-moet de gedeelde data verwijderd worden. </summary> Hier luistert het
-nauw of naast het primaire doel van de apps ook secundaire doelen als
-hoger doel worden betiteld. Als alleen het primaire doel van de
-verspreiding van het coronavirus wordt nagestreefd, dan dienen alle data
-te worden verwijderd nadat dat doel is bereikt.
+<summary> <b>Data verwijderen</b>: Als het hogere doel gerealiseerd is,
+dan moet de gedeelde data verwijderd worden. </summary>
+
+<p>
+
+Hier luistert het nauw of naast het primaire doel van de apps ook
+secundaire doelen als hoger doel worden betiteld. Als alleen het
+primaire doel van de verspreiding van het coronavirus wordt nagestreefd,
+dan dienen alle data te worden verwijderd nadat dat doel is bereikt.
+
+</p>
+
+<p>
 
 Als het secundaire doel van het uitvoeren van wetenschappelijk onderzoek
 ook als hoger doel wordt geaccepteerd, dan is het sterk de vraag hoe
@@ -93,21 +116,35 @@ van een promovendus aan de universiteit duurt langer dan 4 jaar, wat al
 substantieel langer is dan de maximale bewaartermijn van 2 jaar die
 onderdeel is van de algemene voorwaarden van de app van het OLVG.
 
+</p>
+
 </details>
+
+<br>
 
 <details>
 
-<summary> **Gegevens onder beheer van de gebruikers zelf**: Data moet zo
-veel mogelijk bij de bron / eigenaar blijven en zo min mogelijk als
+<summary> <b>Gegevens onder beheer van de gebruikers zelf</b>: Data moet
+zo veel mogelijk bij de bron / eigenaar blijven en zo min mogelijk als
 kopieën in datawarehouses / hubs / markets / lakes worden opgeslagen.
-</summary> Idealiter blijft de data die in de apps worden ingevuld op de
-mobiele telefoon van degene staan die die data invult en worden de
-bewerkingen op de data decentraal uitgevoerd. Alleen de geaggregeerde
-resultaten van de lokaal bewerkte data komen dan terecht bij de
-instanties die deze stuurinformatie nodig hebben, denk aan het
-ziekenhuis, het RIVM of de GGD. Dit is de werkwijze van de Personal
-Health Train, het concept dat Minister Bruins propageert\[1\] en is
-ontwikkeld door DTL, MAASTRO en LUMC\[2\].
+</summary>
+
+<p>
+
+Idealiter blijft de data die in de apps worden ingevuld op de mobiele
+telefoon van degene staan die die data invult en worden de bewerkingen
+op de data decentraal uitgevoerd. Alleen de geaggregeerde resultaten van
+de lokaal bewerkte data komen dan terecht bij de instanties die deze
+stuurinformatie nodig hebben, denk aan het ziekenhuis, het RIVM of de
+GGD. Dit is de werkwijze van de Personal Health Train, het concept dat
+Minister Bruins
+[propageert](https://www.rijksoverheid.nl/documenten/kamerstukken/2018/11/15/kamerbrief-over-data-laten-werken-voor-gezondheid)
+en is ontwikkeld door [DTL, MAASTRO en
+LUMC](https://www.dtls.nl/fair-data/personal-health-train/).
+
+</p>
+
+<p>
 
 Deze werkwijze is des te meer van belang om te voorkomen dat de data ten
 behoeve van het secundaire doel op vele plekken terecht komt. Daarbij is
@@ -115,44 +152,68 @@ er de voorwaarde dat de data die voor primaire en secundaire doelen
 centraal getrokken wordt, met de vereiste beveiligingsmaatregelen wordt
 beheerd.
 
+</p>
+
 </details>
+
+<br>
 
 <details>
 
-<summary> **Bescherming van belangen**: Er moet adequate wet- &
+<summary> <b>Bescherming van belangen</b>: Er moet adequate wet- &
 regelgeving om het gebruik van de apps gebouwd zijn,
 incl. toezichthoudende en rechtsprekende organen, zodat bij het
 schenden van belangen onafhankelijk recht gesproken kan worden.
-</summary> Deze randvoorwaarde ligt voor de hand. Nagegaan moet worden
-of de algemene verordening gegevensbescherming (AVG) volstaat of dat
+</summary>
+
+<p>
+
+Deze randvoorwaarde ligt voor de hand. Nagegaan moet worden of de
+algemene verordening gegevensbescherming (AVG) volstaat of dat
 aanvullende of bijgestelde wetgeving noodzakelijk is. Het is daarbij
 onder meer van belang dat individuele burgers het recht hebben om
 misbruik van hun data te melden en het stop zetten daarvan te kunnen
 afdwingen.
 
+</p>
+
 </details>
+
+<br>
 
 <details>
 
-<summary> **Governance structuur**: De besluitvorming over de
+<summary> <b>Governance structuur</b>: De besluitvorming over de
 ontwikkeling en het gebruik van de apps en de verzamelde data, moet
 zodanig zijn ingericht dat belangen evenwichtig worden gediend.
-</summary> Bits of Freedom noemt het kabinet als de ‘governance body’.
-Dat is ons inziens een onvoldoende invulling van deze
-randvoorwaarde\[3\]. Dat geeft te weinig invloed, voor direct
-betrokkenen en maakt geen gebruik van de noodzakelijke expertise voor
-een goede besluitvorming (de meeste volksvertegenwoordigers hebben
+</summary>
+
+<p>
+
+Bits of Freedom
+[noemt](https://www.bitsoffreedom.nl/2020/03/20/privacy-is-geen-absoluut-recht-maar-wel-een-noodzaak/)
+het kabinet als de ‘governance body’. Dat is ons inziens een onvoldoende
+invulling van deze randvoorwaarde. Dat geeft te weinig invloed, voor
+direct betrokkenen en maakt geen gebruik van de noodzakelijke expertise
+voor een goede besluitvorming (de meeste volksvertegenwoordigers hebben
 weinig expertise van big data, AI en van technieken waarmee op grote
 schaal data wordt verzameld). Van belang is dat de governance structuur
 een evenwichtige vertegenwoordiging van belangenpartijen kent: overheid,
 bedrijfsleven en burgers.
 
+</p>
+
 </details>
+
+<br>
 
 <details>
 
-<summary> **Gezonde prikkels**: Het systeem moet het gewenste
+<summary> <b>Gezonde prikkels</b>: Het systeem moet het gewenste
 datadelinggedrag stimuleren (en ongewenst gedrag tegen gaan). </summary>
+
+<p>
+
 Over het ongewenste gedrag van datadelen op de bekende sociale platforms
 is de afgelopen jaren al veel gepubliceerd. Deze platforms zetten zeer
 succesvol aan tot het delen van data, maar er zijn inmiddels diverse
@@ -162,21 +223,34 @@ randvoorwaarde er op neer dat burgers niet verleid worden tot meer
 datadeling dan nodig om het hogere doel te dienen en niet verdiend wordt
 aan datadeling.
 
+</p>
+
 </details>
+
+<br>
 
 <details>
 
-<summary> **Data aan de bron anoniem houden**: Data moet geanonimiseerd
-worden, maar dat is zoals eerder gezegd op zich nog geen voldoende
-voorwaarde. </summary> Uit Amerikaans onderzoek op basis van de
-volkstelling in 1990 is gebleken dat veel individuen binnen geografisch
-afgebakende populaties combinaties van demografische kenmerken hebben
-die niet vaak voorkomen.\[4\] Een verrassend resultaat was dat slechts
-drie kenmerken (postcode, geslacht en geboortedatum) 87% van alle
-Amerikanen (bijna) uniek maakt. Met drie andere kenmerken (woonplaats,
-geslacht en geboortedatum) geldt dat voor 53% van de totale Amerikaanse
-bevolking. Merk hierbij op dat in datasets in het algemeen meer dan drie
-gegevens per persoon worden vastgelegd.
+<summary> <b>Data aan de bron anoniem houden/</b>: Data moet
+geanonimiseerd worden, maar dat is zoals eerder gezegd op zich nog geen
+voldoende voorwaarde. </summary>
+
+<p>
+
+Uit [Amerikaans
+onderzoek](http://privacytools.seas.harvard.edu/files/privacytools/files/paper1.pdf)
+op basis van de volkstelling in 1990 is gebleken dat veel individuen
+binnen geografisch afgebakende populaties combinaties van demografische
+kenmerken hebben die niet vaak voorkomen. Een verrassend resultaat was
+dat slechts drie kenmerken (postcode, geslacht en geboortedatum) 87% van
+alle Amerikanen (bijna) uniek maakt. Met drie andere kenmerken
+(woonplaats, geslacht en geboortedatum) geldt dat voor 53% van de totale
+Amerikaanse bevolking. Merk hierbij op dat in datasets in het algemeen
+meer dan drie gegevens per persoon worden vastgelegd.
+
+</p>
+
+<p>
 
 Geanonimiseerde data, zeker data die ook gezondheidskenmerken bevatten,
 kunnen dus niet zonder meer als anoniem worden gezien. Deze constatering
@@ -187,18 +261,30 @@ daarvoor alleen een minimale dataset beschikbaar te stellen waarmee de
 (nog nader te formuleren specifieke) wetenschappelijke onderzoeksvraag
 voldoende beantwoord kan worden.
 
+</p>
+
 </details>
+
+<br>
 
 <details>
 
-<summary> **Transparantie**: Bedrijven zullen de oplossing
+<summary> <b>Transparantie</b>: Bedrijven zullen de oplossing
 waarschijnlijk gaan realiseren omdat het de overheid aan technische
 expertise ontbreekt. Dat vereist transparantie over het gebruikte
-bedrijfsmiddel. </summary> Het OLVG heeft aangekondigd dat zij de
-verzamelde data openbaar wil aanbieden aan wetenschappelijke
-onderzoekers. Gezien de overige randvoorwaarden is het de vraag of dit
-acceptabel is voor degenen wiens data het betreft. In ieder geval moet
-de verzamelde data door auditors in te zien zijn.
+bedrijfsmiddel. </summary>
+
+<p>
+
+Het OLVG heeft aangekondigd dat zij de verzamelde data openbaar wil
+aanbieden aan wetenschappelijke onderzoekers. Gezien de overige
+randvoorwaarden is het de vraag of dit acceptabel is voor degenen wiens
+data het betreft. In ieder geval moet de verzamelde data door auditors
+in te zien zijn.
+
+</p>
+
+<p>
 
 Voor de invulling van de randvoorwaarde van transparantie is het
 essentieel dat de broncode van de app openbaar wordt gemaakt. Hierdoor
@@ -210,23 +296,32 @@ in lekentaal formuleren en delen. Een andere belangrijke maatregel is
 dat de resultaten van de bewerkingen door derden moeten kunnen worden
 gereproduceerd.
 
+</p>
+
 </details>
+
+<br>
 
 <details>
 
-<summary> **Validiteit en betrouwbaarheid**: Validiteit en
+<summary> <b>Validiteit en betrouwbaarheid</b>: Validiteit en
 betrouwbaarheid zijn statistische criteria die vereisen dat met de apps
 daadwerkelijk wordt gemeten wat men beoogt te meten. En dat toeval
-daarbij een zo klein mogelijke rol speelt. </summary> Het eerder
-geformuleerde criterium van het hogere doel vereist niet alleen dat er
-sprake is van het bestaan van een hoger doel, maar ook dat daarmee het
-hogere doel wordt gediend. Dat vereist helderheid over hoe de apps, de
-data en de vervolgmaatregelen dit doel gaan bereiken en hoe bijgestuurd
-wordt richting dat doel. Laat dus zien hoe succesvol men is in het
-bereiken van dat doel. Het risico is aanwezig dat de twee apps op dit
-moment niet aan dit criterium voldoen, aangezien in de antwoorden van
-het RIVM op veelgestelde vragen staat dat er nog steeds geen zekerheid
-is over het ontstaan van immuniteit en de duur daarvan.
+daarbij een zo klein mogelijke rol speelt. </summary>
+
+<p>
+
+Het eerder geformuleerde criterium van het hogere doel vereist niet
+alleen dat er sprake is van het bestaan van een hoger doel, maar ook dat
+daarmee het hogere doel wordt gediend. Dat vereist helderheid over hoe
+de apps, de data en de vervolgmaatregelen dit doel gaan bereiken en hoe
+bijgestuurd wordt richting dat doel. Laat dus zien hoe succesvol men is
+in het bereiken van dat doel. Het risico is aanwezig dat de twee apps op
+dit moment niet aan dit criterium voldoen, aangezien in de antwoorden
+van het RIVM op veelgestelde vragen staat dat er nog steeds geen
+zekerheid is over het ontstaan van immuniteit en de duur daarvan.
+
+</p>
 
 </details>
 
@@ -241,11 +336,3 @@ dient. ‘Baat het niet, schaadt het niet’ gaat hier niet op\!
 Onze zorgen over de verspreiding van het coronavirus zijn groot, maar
 onze privacy is ook een groot goed en angst is een slechte raadgever. In
 alle opzichten geldt: ‘voorkomen is beter dan genezen’.
-
-1.  <https://www.rijksoverheid.nl/documenten/kamerstukken/2018/11/15/kamerbrief-over-data-laten-werken-voor-gezondheid>
-
-2.  <https://www.dtls.nl/fair-data/personal-health-train/>
-
-3.  <https://www.bitsoffreedom.nl/2020/03/20/privacy-is-geen-absoluut-recht-maar-wel-een-noodzaak/>
-
-4.  <http://privacytools.seas.harvard.edu/files/privacytools/files/paper1.pdf>
