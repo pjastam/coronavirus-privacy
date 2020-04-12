@@ -16,17 +16,18 @@ noodzaak.
 Wij, 3 bezorgde burgers, hebben dit voorstel op persoonlijke titel
 geschreven. Onze namen zijn:
 
-  - Piet Stam,gezondheidseconoom
+  - Piet Stam, gezondheidseconoom
   - Peter Nobels, zorg-IT management consultant
   - Marco Woesthuis, arts (niet praktizerend)
 
 **Commmunity**
 
 We hopen op inbreng van andere bezorgde burgers, zodat de lijst wordt
-aangescherpt en we samen de overheid aan een gedragen toetsingskader
-helpen. Daarom hebben we de lijst met 10 uitgangspunten in een
-[Wiki](https://github.com/pjastam/coronavirus-privacy/wiki) gezet, zodat
-iedereen kan meehelpen aan de aanscherping.
+aangescherpt en we samen de overheid aan een maatschappelijk gedragen
+toetsingskader helpen. Daarom hebben we de lijst met 10 uitgangspunten
+in een [Wiki](https://github.com/pjastam/coronavirus-privacy/wiki)
+gezet, zodat iedereen kan meehelpen aan de aanscherping. Het enige dat
+je daarvoor nodig hebt is een GitHub login.
 
 **Publicatierechten**
 
