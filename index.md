@@ -45,7 +45,7 @@ met noodzakelijke voorwaarden:
 
 <summary> <b>Hoger doel</b>: De apps moeten een hoger algemeen sociaal
 doel dienen. Dat doel moet helder verwoord en afgebakend zijn.
-</summary>
+</summary> <br>
 
 <p>
 
@@ -71,7 +71,7 @@ deze data voor wetenschappelijk onderzoek te verzamelen.
 van een crisis is, dan moet er een afgebakende periode van datadeling
 zijn. Deze periode kan eventueel verlengd worden omdat de crisis nog
 niet bezworen is. Deze besluitvoming moet voldoen aan democratische
-uitgangspunten. </summary>
+uitgangspunten. </summary> <br>
 
 <p>
 
@@ -96,7 +96,7 @@ gedurende een vaste periode af te spreken.
 <details>
 
 <summary> <b>Data verwijderen</b>: Als het hogere doel gerealiseerd is,
-dan moet de gedeelde data verwijderd worden. </summary>
+dan moet de gedeelde data verwijderd worden. </summary> <br>
 
 <p>
 
@@ -127,7 +127,7 @@ onderdeel is van de algemene voorwaarden van de app van het OLVG.
 <summary> <b>Gegevens onder beheer van de gebruikers zelf</b>: Data moet
 zo veel mogelijk bij de bron / eigenaar blijven en zo min mogelijk als
 kopieën in datawarehouses / hubs / markets / lakes worden opgeslagen.
-</summary>
+</summary> <br>
 
 <p>
 
@@ -164,7 +164,7 @@ beheerd.
 regelgeving om het gebruik van de apps gebouwd zijn,
 incl. toezichthoudende en rechtsprekende organen, zodat bij het
 schenden van belangen onafhankelijk recht gesproken kan worden.
-</summary>
+</summary> <br>
 
 <p>
 
@@ -186,7 +186,7 @@ afdwingen.
 <summary> <b>Governance structuur</b>: De besluitvorming over de
 ontwikkeling en het gebruik van de apps en de verzamelde data, moet
 zodanig zijn ingericht dat belangen evenwichtig worden gediend.
-</summary>
+</summary> <br>
 
 <p>
 
@@ -211,6 +211,7 @@ bedrijfsleven en burgers.
 
 <summary> <b>Gezonde prikkels</b>: Het systeem moet het gewenste
 datadelinggedrag stimuleren (en ongewenst gedrag tegen gaan). </summary>
+<br>
 
 <p>
 
@@ -233,7 +234,7 @@ aan datadeling.
 
 <summary> <b>Data aan de bron anoniem houden/</b>: Data moet
 geanonimiseerd worden, maar dat is zoals eerder gezegd op zich nog geen
-voldoende voorwaarde. </summary>
+voldoende voorwaarde. </summary> <br>
 
 <p>
 
@@ -272,7 +273,7 @@ voldoende beantwoord kan worden.
 <summary> <b>Transparantie</b>: Bedrijven zullen de oplossing
 waarschijnlijk gaan realiseren omdat het de overheid aan technische
 expertise ontbreekt. Dat vereist transparantie over het gebruikte
-bedrijfsmiddel. </summary>
+bedrijfsmiddel. </summary> <br>
 
 <p>
 
@@ -307,7 +308,7 @@ gereproduceerd.
 <summary> <b>Validiteit en betrouwbaarheid</b>: Validiteit en
 betrouwbaarheid zijn statistische criteria die vereisen dat met de apps
 daadwerkelijk wordt gemeten wat men beoogt te meten. En dat toeval
-daarbij een zo klein mogelijke rol speelt. </summary>
+daarbij een zo klein mogelijke rol speelt. </summary> <br>
 
 <p>
 

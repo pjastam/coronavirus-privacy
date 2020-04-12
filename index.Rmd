@@ -48,6 +48,7 @@ aftrap voor zo’n lijst met noodzakelijke voorwaarden:
 <summary>
 <b>Hoger doel</b>: De apps moeten een hoger algemeen sociaal doel dienen. Dat doel moet helder verwoord en afgebakend zijn.
 </summary>
+<br>
 <p>
 Het is evident dat er in dit geval sprake is van zo’n hoger doel, namelijk het
 tegengaan van de verspreiding van het coronavirus in ons land. Maar het is niet
@@ -65,6 +66,7 @@ om deze data voor wetenschappelijk onderzoek te verzamelen.
 <summary>
 <b>Afgebakende periode</b>: Als het hogere doel het beteugelen van een crisis is, dan moet er een afgebakende periode van datadeling zijn. Deze periode kan eventueel verlengd worden omdat de crisis nog niet bezworen is. Deze besluitvoming moet voldoen aan democratische uitgangspunten.
 </summary>
+<br>
 <p>
 Het risico van in crisistijd ingevoerde maatregelen is dat de tijdelijkheid
 ervan in de geschiedenis een rekbaar begrip is gebleken, daarom zijn harde
@@ -84,6 +86,7 @@ vaste periode af te spreken.
 <summary>
 <b>Data verwijderen</b>: Als het hogere doel gerealiseerd is, dan moet de gedeelde data verwijderd worden.
 </summary>
+<br>
 <p>
 Hier luistert het nauw of naast het primaire doel van de apps ook secundaire
 doelen als hoger doel worden betiteld. Als alleen het primaire doel van de
@@ -105,6 +108,7 @@ van de app van het OLVG.
 <summary>
 <b>Gegevens onder beheer van de gebruikers zelf</b>: Data moet zo veel mogelijk bij de bron / eigenaar blijven en zo min mogelijk als kopieën in datawarehouses / hubs / markets / lakes worden opgeslagen.
 </summary>
+<br>
 <p>
 Idealiter blijft de data die in de apps worden ingevuld op de mobiele telefoon
 van degene staan die die data invult en worden de bewerkingen op de data
@@ -127,6 +131,7 @@ wordt, met de vereiste beveiligingsmaatregelen wordt beheerd.
 <summary>
 <b>Bescherming van belangen</b>: Er moet adequate wet- & regelgeving om het gebruik van de apps gebouwd zijn, incl. toezichthoudende en rechtsprekende organen, zodat bij het schenden van belangen onafhankelijk recht gesproken kan worden.
 </summary>
+<br>
 <p>
 Deze randvoorwaarde ligt voor de hand. Nagegaan moet worden of de algemene
 verordening gegevensbescherming (AVG) volstaat of dat aanvullende of bijgestelde
@@ -141,6 +146,7 @@ daarvan te kunnen afdwingen.
 <summary>
 <b>Governance structuur</b>: De besluitvorming over de ontwikkeling en het gebruik van de apps en de verzamelde data, moet zodanig zijn ingericht dat belangen evenwichtig worden gediend.
 </summary>
+<br>
 <p>
 Bits of Freedom [noemt](https://www.bitsoffreedom.nl/2020/03/20/privacy-is-geen-absoluut-recht-maar-wel-een-noodzaak/) het kabinet als de ‘governance body’. Dat is ons inziens
 een onvoldoende invulling van deze randvoorwaarde. Dat geeft te weinig
@@ -158,6 +164,7 @@ bedrijfsleven en burgers.
 <summary>
 <b>Gezonde prikkels</b>: Het systeem moet het gewenste datadelinggedrag stimuleren (en ongewenst gedrag tegen gaan).
 </summary>
+<br>
 <p>
 Over het ongewenste gedrag van datadelen op de bekende sociale platforms is de
 afgelopen jaren al veel gepubliceerd. Deze platforms zetten zeer succesvol aan
@@ -174,6 +181,7 @@ aan datadeling.
 <summary>
 <b>Data aan de bron anoniem houden/</b>: Data moet geanonimiseerd worden, maar dat is zoals eerder gezegd op zich nog geen voldoende voorwaarde.
 </summary>
+<br>
 <p>
 Uit [Amerikaans onderzoek](http://privacytools.seas.harvard.edu/files/privacytools/files/paper1.pdf) op basis van de volkstelling in 1990 is gebleken dat
 veel individuen binnen geografisch afgebakende populaties combinaties van
@@ -200,6 +208,7 @@ wetenschappelijke onderzoeksvraag voldoende beantwoord kan worden.
 <summary>
 <b>Transparantie</b>: Bedrijven zullen de oplossing waarschijnlijk gaan realiseren omdat het de overheid aan technische expertise ontbreekt. Dat vereist transparantie over het gebruikte bedrijfsmiddel.
 </summary>
+<br>
 <p>
 Het OLVG heeft aangekondigd dat zij de verzamelde data openbaar wil aanbieden
 aan wetenschappelijke onderzoekers. Gezien de overige randvoorwaarden is het de
@@ -223,6 +232,7 @@ kunnen worden gereproduceerd.
 <summary>
 <b>Validiteit en betrouwbaarheid</b>: Validiteit en betrouwbaarheid zijn statistische criteria die vereisen dat met de apps daadwerkelijk wordt gemeten wat men beoogt te meten. En dat toeval daarbij een zo klein mogelijke rol speelt.
 </summary>
+<br>
 <p>
 Het eerder geformuleerde criterium van het hogere doel vereist niet alleen dat
 er sprake is van het bestaan van een hoger doel, maar ook dat daarmee het hogere
