@@ -336,3 +336,32 @@ dient. ‘Baat het niet, schaadt het niet’ gaat hier niet op\!
 Onze zorgen over de verspreiding van het coronavirus zijn groot, maar
 onze privacy is ook een groot goed en angst is een slechte raadgever. In
 alle opzichten geldt: ‘voorkomen is beter dan genezen’.
+
+# Auteurs
+
+Wij, 3 bezorgde burgers, hebben dit voorstel op persoonlijke titel
+geschreven. Onze namen zijn:
+
+  - Piet Stam, gezondheidseconoom
+  - Peter Nobels, zorg-IT management consultant
+  - Marco Woesthuis, arts (niet praktizerend)
+
+# Commmunity
+
+We hopen op inbreng van andere bezorgde burgers, zodat de lijst wordt
+aangescherpt en we samen de overheid aan een maatschappelijk gedragen
+toetsingskader helpen. Daarom hebben we de lijst met 10 uitgangspunten
+in een [Wiki](https://github.com/pjastam/coronavirus-privacy/wiki)
+gezet, zodat iedereen kan meehelpen aan de aanscherping. Het enige dat
+je daarvoor nodig hebt is een GitHub login.
+
+# Originele versie
+
+De originele versie van ons voorstel zoals die hierboven staat, is terug
+te vinden in de openbare
+[repository](https://github.com/pjastam/coronavirus-privacy) op
+[GitHub](https://github.com). Op
+[Wikipedia](https://nl.wikipedia.org/wiki/GitHub) vind je de
+beschrijving van wat GitHub is. Zie de README in de GitHub
+[repository](https://github.com/pjastam/coronavirus-privacy) voor
+verdere details en contactinfo.
