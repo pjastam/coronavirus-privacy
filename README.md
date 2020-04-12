@@ -24,8 +24,9 @@ geschreven. Onze namen zijn:
 
 We hopen op inbreng van andere bezorgde burgers, zodat de lijst wordt
 aangescherpt en we samen de overheid aan een gedragen toetsingskader
-helpen. Daarom hebben we de lijst met 10 uitgangspunten in een Wiki
-gezet, zodat iedereen kan meehelpen aan de aanscherping.
+helpen. Daarom hebben we de lijst met 10 uitgangspunten in een
+[Wiki](https://github.com/pjastam/coronavirus-privacy/wiki) gezet, zodat
+iedereen kan meehelpen aan de aanscherping.
 
 **Publicatierechten**
 
@@ -35,7 +36,7 @@ Onze en uw inbreng staat in een openbare
 [Creative Commons Attribution 4.0
 International](https://creativecommons.org/licenses/by/4.0/) licentie.
 
-**Code**
+**Originele versie**
 
 De originele versie van ons voorstel is te vinden op
 [GitHub](https://github.com/pjastam/coronavirus-privacy).
