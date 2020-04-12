@@ -1,24 +1,31 @@
+---
+output: github_document
+---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
 
 **Coronavirus-apps: voorkomen is beter dan genezen**
 
 Individuele privacy is een groot goed. Hoe weeg je dat af tegen het
 brede maatschappelijke belang van de inzet van COVID-19 zoek-en-volg
 apps? Wij, 3 bezorgde burgers, doen een
-[voorstel](https://pietstam.nl/coronavirus-privacy/) voor 10
-beoordelingscriteria om die afweging zorgvuldig te kunnen maken. Ons
-uitgangsunt daarbij is dat privacy geen absoluut recht is, maar wel een
-noodzaak.
+[voorstel](https://pietstam.nl/coronavirus-privacy/) voor 10 beoordelingscriteria om die afweging zorgvuldig te kunnen maken. Ons uitgangsunt
+daarbij is dat privacy geen absoluut recht is, maar wel een noodzaak.
 
 **Auteurs**
 
-Wij, 3 bezorgde burgers, hebben dit voorstel op persoonlijke titel
-geschreven. Onze namen zijn:
+Wij, 3 bezorgde burgers, hebben dit voorstel op persoonlijke titel geschreven. Onze namen zijn:
 
-  - Piet Stam,gezondheidseconoom
-  - Peter Nobels, zorg-IT management consultant
-  - Marco Woesthuis, arts (niet praktizerend)
+* Piet Stam,gezondheidseconoom
+* Peter Nobels, zorg-IT management consultant
+* Marco Woesthuis, arts (niet praktizerend)
 
 **Commmunity**
 
@@ -35,7 +42,7 @@ Onze en uw inbreng staat in een openbare
 [Creative Commons Attribution 4.0
 International](https://creativecommons.org/licenses/by/4.0/) licentie.
 
-**Code**
+**Originele versie**
 
 De originele versie van ons voorstel is te vinden op
 [GitHub](https://github.com/pjastam/coronavirus-privacy).
