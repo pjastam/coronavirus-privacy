@@ -17,7 +17,7 @@ knitr::opts_chunk$set(
 Individuele privacy is een groot goed. Hoe weeg je dat af tegen het
 brede maatschappelijke belang van de inzet van COVID-19 zoek-en-volg
 apps? Wij, 3 bezorgde burgers, doen op persoonlijke titel een
-[voorstel](https://pietstam.nl/coronavirus-privacy/) voor 10 beoordelingscriteria om die afweging zorgvuldig te kunnen maken. Ons uitgangsunt
+[voorstel](https://pietstam.nl/blog/2020/04/12/coronavirus-apps-privacy-conditions) voor 10 beoordelingscriteria om die afweging zorgvuldig te kunnen maken. Ons uitgangsunt
 daarbij is dat privacy geen absoluut recht is, maar wel een noodzaak.
 
 **Auteurs**
