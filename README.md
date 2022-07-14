@@ -36,8 +36,8 @@ je daarvoor nodig hebt is een GitHub login.
 Onze en uw inbreng staat in een openbare
 [repository](https://github.com/pjastam/coronavirus-privacy) op
 [GitHub](https://nl.wikipedia.org/wiki/GitHub) en valt onder de
-[Creative Commons Attribution 4.0
-International](https://creativecommons.org/licenses/by/4.0/) licentie.
+[Creative Commons Attribution-ShareAlike 4.0
+International](https://creativecommons.org/licenses/by-sa/4.0/) licentie.
 
 **Originele versie**
 
